@@ -27,7 +27,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 [Back to Top](#places-to-post-your-startup)
 
 # Websites
-* 10words - https://10words.io
+* 10words - https://10words.io (done)
 * All My Faves - http://www.allmyfaves.com/
 * All Startups - http://www.allstartups.info/Startups/Submit
 * All Top Startups - http://alltopstartups.com/submit-startup/
