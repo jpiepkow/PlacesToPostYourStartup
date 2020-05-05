@@ -28,51 +28,51 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 
 # Websites
 * 10words - https://10words.io (done)
-* All My Faves - http://www.allmyfaves.com/
-* All Startups - http://www.allstartups.info/Startups/Submit
-* All Top Startups - http://alltopstartups.com/submit-startup/
-* Alternative To - http://alternativeto.net/
-* App 400 - http://apps400.com/
-* App Advice - http://appadvice.com/page/about-us
-* App Appeal - http://www.appappeal.com/contact/suggest
-* App Rater - https://apprater.net/add/
-* Appcrawlr - http://appcrawlr.com/
-* Appoid - http://appiod.com/submit-app-for-review/
-* appPicker - http://www.apppicker.com/
-* Apps 400 - http://apps400.com/submit-your-application-for-review
-* Apps Listo - http://appslisto.com/submit-your-app/
-* Apps Mamma - http://appsmamma.com/submit-your-app/
-* Apps Mirror - http://www.appsmirror.com/submit-your-app-for-review
-* AppsNow - http://appsnow.us/submit-app-for-review/
-* AppsThunder - http://appsthunder.com/submit-your-app/
-* AppStorm - http://appstorm.net/
-* Appvita - http://www.appvita.com/
-* AppZapp - http://www.appzapp.net/en/app-review-request/
-* Arctic Startup - http://arcticstartup.com/
-* Beta Bound - http://www.betabound.com/announce/
-* Beta Page - https://betapage.co/
-* Betafy - https://www.betafy.co/easysignup/startup
-* BetaList - https://betalist.com/submit
-* Beterest - https://beterest.com/submit-startup/
-* Boing Boing - http://boingboing.net/sub/
-* BuiltInChicago - http://www.builtinchicago.org/send-us-tip
-* Capterra - http://www.capterra.com/vendors/sign-up
-* CloudShowPlace - http://www.cloudshowplace.com/add-your-company/
-* Cnet - https://upload.cnet.com/
-* Collaborizm - https://www.collaborizm.com
-* Crazy About Startups - http://www.crazyaboutstartups.com/index.php/share-your-startup-form
-* CrozDesk - https://vendor.crozdesk.com/user/signup
-* Crunch Base - https://www.crunchbase.com/#/home/index
-* CSS Mania - http://www.cssmania.com/submit/
-* Designer News - https://www.designernews.co/
-* Digg - http://digg.com/submit
-* Discova - http://www.discova.co/
-* Discover Cloud - https://www.discovercloud.com/become-a-vendor
-* Erlibird - https://erlibird.com/beta-testing
-* F6S - http://www.f6s.com/
-* Feed My App - https://feedmyapp.com/submit/
-* G2 Crowd - https://www.g2crowd.com/products/new
-* Geek Wire - http://geekwire.com/startup-list/
+* All My Faves - http://www.allmyfaves.com/ (done)
+* All Startups - http://www.allstartups.info/Startups/Submit (done)
+* All Top Startups - http://alltopstartups.com/submit-startup/ (done)
+* Alternative To - http://alternativeto.net/ (done)
+* App 400 - http://apps400.com/ (done)
+* App Advice - http://appadvice.com/page/about-us (done)
+* App Appeal - http://www.appappeal.com/contact/suggest (done)
+* App Rater - https://apprater.net/add/ (done)
+* Appcrawlr - http://appcrawlr.com/ (done)
+* Appoid - http://appiod.com/submit-app-for-review/ (done)
+* appPicker - http://www.apppicker.com/ (done)
+* Apps 400 - http://apps400.com/submit-your-application-for-review (done)
+* Apps Listo - http://appslisto.com/submit-your-app/ (done)
+* Apps Mamma - http://appsmamma.com/submit-your-app/ (done)
+* Apps Mirror - http://www.appsmirror.com/submit-your-app-for-review (done)
+* AppsNow - http://appsnow.us/submit-app-for-review/ (done)
+* AppsThunder - http://appsthunder.com/submit-your-app/ (done)
+* AppStorm - http://appstorm.net/ (done)
+* Appvita - http://www.appvita.com/ (done)
+* AppZapp - http://www.appzapp.net/en/app-review-request/ (done)
+* Arctic Startup - http://arcticstartup.com/ (done)
+* Beta Bound - http://www.betabound.com/announce/ (done)
+* Beta Page - https://betapage.co/ (done)
+* Betafy - https://www.betafy.co/easysignup/startup (done)
+* BetaList - https://betalist.com/submit (done)
+* Beterest - https://beterest.com/submit-startup/ (done)
+* Boing Boing - http://boingboing.net/sub/ (done)
+* BuiltInChicago - http://www.builtinchicago.org/send-us-tip (done)
+* Capterra - http://www.capterra.com/vendors/sign-up (done)
+* CloudShowPlace - http://www.cloudshowplace.com/add-your-company/ (done)
+* Cnet - https://upload.cnet.com/ (done)
+* Collaborizm - https://www.collaborizm.com (done)
+* Crazy About Startups - http://www.crazyaboutstartups.com/index.php/share-your-startup-form (done)
+* CrozDesk - https://vendor.crozdesk.com/user/signup (done)
+* Crunch Base - https://www.crunchbase.com/#/home/index (done)
+* CSS Mania - http://www.cssmania.com/submit/ (done)
+* Designer News - https://www.designernews.co/ (done)
+* Digg - http://digg.com/submit (done)
+* Discova - http://www.discova.co/ (done)
+* Discover Cloud - https://www.discovercloud.com/become-a-vendor (done)
+* Erlibird - https://erlibird.com/beta-testing (done)
+* F6S - http://www.f6s.com/ (done)
+* Feed My App - https://feedmyapp.com/submit/ (done)
+* G2 Crowd - https://www.g2crowd.com/products/new (done)
+* Geek Wire - http://geekwire.com/startup-list/ (done)
 * Get App - http://getapp.com/
 * Getworm - https://getworm.com/submit-startup
 * Gust - https://www.gust.com
