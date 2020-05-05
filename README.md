@@ -73,31 +73,31 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Feed My App - https://feedmyapp.com/submit/ (done)
 * G2 Crowd - https://www.g2crowd.com/products/new (done)
 * Geek Wire - http://geekwire.com/startup-list/ (done)
-* Get App - http://getapp.com/
-* Getworm - https://getworm.com/submit-startup
-* Gust - https://www.gust.com
-* Haro - https://www.helpareporter.com/sources/
-* Idea Hunt - http://ideahunt.io/
-* Inc 42 - https://inc42.com/startup-submission/
-* Index.co - https://index.co/startup
-* Indie Hackers - https://www.indiehackers.com/
-* Killer Startups - http://killerstartups.com/submit-startup/
-* Land-book - https://land-book.com/guidelines
-* Launch List - https://launchlister.com/submit-startup
-* Launched - https://launched.io/SubmitStartup
-* Launching Next - http://www.launchingnext.com/submit/
-* Loop - https://app.loopinput.com/ 
-* MakeUseOf - http://www.makeuseof.com/about/
-* Maqtoob - https://maqtoob.com/submit-a-tool
-* Mobilzed - https://www.moblized.com/vendors/register
-* Netted - https://www.netted.net/contact-us/
-* Next Big Product - http://nextbigproduct.net/product-submission/
-* Next Big What - http://nextbigwhat.com/
-* Paggu - http://www.paggu.com/submit-your-startup/
-* pFind - http://www.pfind.com/submit
-* Postmake - https://postmake.io/submit
-* Postscapes - http://about.postscapes.com/tools
-* PreApps - http://www.preapps.com/
+* Get App - http://getapp.com/ (done)
+* Getworm - https://getworm.com/submit-startup (done)
+* Gust - https://www.gust.com (done)
+* Haro - https://www.helpareporter.com/sources/ (done)
+* Idea Hunt - http://ideahunt.io/ (done)
+* Inc 42 - https://inc42.com/startup-submission/ (done)
+* Index.co - https://index.co/startup (done)
+* Indie Hackers - https://www.indiehackers.com/ (done)
+* Killer Startups - http://killerstartups.com/submit-startup/ (done)
+* Land-book - https://land-book.com/guidelines (done)
+* Launch List - https://launchlister.com/submit-startup (done)
+* Launched - https://launched.io/SubmitStartup (done)
+* Launching Next - http://www.launchingnext.com/submit/ (done)
+* Loop - https://app.loopinput.com/ (done) 
+* MakeUseOf - http://www.makeuseof.com/about/ (done)
+* Maqtoob - https://maqtoob.com/submit-a-tool (done)
+* Mobilzed - https://www.moblized.com/vendors/register (done)
+* Netted - https://www.netted.net/contact-us/ (done)
+* Next Big Product - http://nextbigproduct.net/product-submission/ (done)
+* Next Big What - http://nextbigwhat.com/ (done)
+* Paggu - http://www.paggu.com/submit-your-startup/ (done)
+* pFind - http://www.pfind.com/submit (done)
+* Postmake - https://postmake.io/submit (done)
+* Postscapes - http://about.postscapes.com/tools (done)
+* PreApps - http://www.preapps.com/ (done)
 * Product Hunt - http://www.producthunt.com/
 * Programmable Web - https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18
 * PublicityX - https://www.publicityx.com/startups/new
